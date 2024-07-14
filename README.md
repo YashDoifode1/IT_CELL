@@ -14,15 +14,15 @@ Database: MySQL
 Installation
 Clone the repository:
 
-sh
-Copy code
+
+
 git clone https://github.com/yourusername/college-forum.git
 cd college-forum
 Set up the database:
 
 Import the SQL file to create the necessary tables.
 sql
-Copy code
+
 CREATE TABLE `users` (
     `id` int(11) NOT NULL AUTO_INCREMENT,
     `username` varchar(50) NOT NULL,
@@ -63,7 +63,7 @@ Configure the database connection:
 
 Update config.php with your database credentials.
 php
-Copy code
+
 define('DB_HOST', 'your_db_host');
 define('DB_USER', 'your_db_user');
 define('DB_PASS', 'your_db_password');
@@ -89,8 +89,7 @@ Notifications:
 
 View notifications in a fixed position on the right side of the page.
 File Structure
-css
-Copy code
+
 college-forum/
 ├── config.php
 ├── delete_comment.php
