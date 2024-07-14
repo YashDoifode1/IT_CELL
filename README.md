@@ -88,28 +88,7 @@ Add, edit, and delete comments.
 Notifications:
 
 View notifications in a fixed position on the right side of the page.
-File Structure
 
-college-forum/
-├── config.php
-├── delete_comment.php
-├── delete_post.php
-├── delete_user.php
-├── details.php
-├── index.php
-├── manage_comments.php
-├── manage_posts.php
-├── manage_users.php
-├── notify.php
-├── includes/
-│   ├── header.php
-│   ├── footer.php
-├── assets/
-│   ├── css/
-│   ├── js/
-└── README.md
-Contributing
-Contributions are welcome! Please open an issue or submit a pull request for any changes or improvements.
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
