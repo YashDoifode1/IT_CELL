@@ -22,6 +22,12 @@ https://github.com/user-attachments/assets/535fd8ba-d0a8-4839-8fc2-2f7216f03fda
 
 
 
+https://github.com/user-attachments/assets/b6d95f59-5121-4d30-bfe1-5ad27c0c3432
+
+
+
+
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Set up the database:
 Import the SQL file to create the necessary tables.
