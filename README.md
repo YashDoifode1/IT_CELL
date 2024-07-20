@@ -19,9 +19,9 @@ Clone the repository:
 git clone https://github.com/yourusername/college-forum.git
 cd college-forum
 Set up the database:
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 https://github.com/user-attachments/assets/535fd8ba-d0a8-4839-8fc2-2f7216f03fda
-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Import the SQL file to create the necessary tables.
 sql
 
