@@ -19,7 +19,9 @@ Clone the repository:
 git clone https://github.com/yourusername/college-forum.git
 cd college-forum
 Set up the database:
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+https://github.com/user-attachments/assets/535fd8ba-d0a8-4839-8fc2-2f7216f03fda
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 Import the SQL file to create the necessary tables.
 sql
 
@@ -70,24 +72,7 @@ define('DB_PASS', 'your_db_password');
 define('DB_NAME', 'your_db_name');
 Start the server:
 
-Use XAMPP, MAMP, or any PHP server to host the project directory.
-Navigate to the project directory in your browser (e.g., http://localhost/college-forum).
-Usage
-Admin Dashboard:
 
-Accessible by users with the admin role.
-Monitor and manage users, posts, and comments.
-Posts:
-
-View all posts in a table format.
-Add, edit, and delete posts.
-Comments:
-
-View all comments on a specific post.
-Add, edit, and delete comments.
-Notifications:
-
-View notifications in a fixed position on the right side of the page.
 
 
 License
